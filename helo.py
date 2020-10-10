@@ -1,0 +1,2 @@
+def hama():
+    print("Test")
